@@ -1,0 +1,6 @@
+false_positive:
+- id: heroku-buildpack-awscli://bin/install_awscli.sh_afa57bbf174dc0aab7e0e90ff7a047c7a1a1af85
+  justification: ''
+mock_secret: []
+non_production_secret: []
+production_secret: []
